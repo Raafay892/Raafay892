@@ -23,22 +23,27 @@ Welcome to my GitHub profile! I am a **Cyber Security Engineer** with a passion 
 
 ## 💼 Experience
 
-### **Techlogix Pvt Ltd** | Islamabad, Pakistan  
+### [**Techlogix Pvt Ltd**](https://www.techlogix.com/) | Islamabad, Pakistan  
 **DevSecOps Engineer**  
-*August 2025 - Present*
+*August 2025 – Present*
 
-### **Pakistan Air Force** | Islamabad, Pakistan  
+---
+
+### [**Pakistan Air Force**](https://www.paf.gov.pk/) | Islamabad, Pakistan  
 **Research Officer**  
-*January 2024 - August 2025*
+*January 2024 – August 2025*
 
+---
 
-### **Cloud Security and Privacy Lab, NUST** | Rawalpindi, Pakistan  
+### [**Cloud Security and Privacy Lab, NUST**](https://csp.nust.edu.pk/) | Rawalpindi, Pakistan  
 **Research Associate**  
-*January 2025 - Present*
+*January 2025 – Present*
 
-### **NATIONAL Cyber Security and Evaluation Lab (NCSAEL)** | Islamabad, Pakistan  
+---
+
+### [**National Cyber Security and Evaluation Lab (NCSAEL)**](https://ncsael.nust.edu.pk/) | Islamabad, Pakistan  
 **Cyber Security Research Intern**  
-*May 2022 - August 2022*
+*May 2022 – August 2022*
 
 
 ## 📈 GitHub Stats
