@@ -35,13 +35,13 @@ Welcome to my GitHub profile! I am a **Cyber Security Engineer** with a passion 
 
 ---
 
-### [**Cloud Security and Privacy Lab, NUST**](https://csp.nust.edu.pk/) | Rawalpindi, Pakistan  
+### [**Cloud Security and Privacy Lab, NUST**](https://mcs.nust.edu.pk/research/cloud-security-research-group/) | Rawalpindi, Pakistan  
 **Research Associate**  
 *January 2025 – Present*
 
 ---
 
-### [**National Cyber Security and Evaluation Lab (NCSAEL)**](https://ncsael.nust.edu.pk/) | Islamabad, Pakistan  
+### [**National Cyber Security and Evaluation Lab (NCSAEL)**](https://ncsael.lynx-infosec.com/) | Islamabad, Pakistan  
 **Cyber Security Research Intern**  
 *May 2022 – August 2022*
 
