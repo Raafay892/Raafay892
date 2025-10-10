@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I am a **Cyber Security Engineer** with a passion 
 ---
 
 ### [**Pakistan Air Force**](https://www.paf.gov.pk/) | Islamabad, Pakistan  
-**Research Officer**  
+**Cyber Security Engineer**  
 *January 2024 – August 2025*
 
 ---
